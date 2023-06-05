@@ -1,0 +1,18 @@
+.resize{
+    weight: 400px;
+    height: auto;
+}
+
+nav-bar{
+    viewport: top;
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+    
+  }
+
+body{
+    display: flex;
+
+
+}  
